@@ -11,7 +11,7 @@ Posting passion projects, school projects, and code into my repositories.
 
 ### 🚀 Key Projects
 - **[FPGA Elevator Controller](https://github.com/lance-farrell/FPGA_Elevator_Controller):** Three-floor logic with Verilog, featuring emergency states and animations.
-- **ARM Traffic Light System:** Hardware Interrupt-driven timing using SysTick on TM4C123GH6PM.
+- **[ARM Traffic Light System](https://github.com/lance-farrell/TrafficLight-Controller):** Hardware Interrupt-driven timing using SysTick on TM4C123GH6PM.
 - **1 Hz Oscillator:** μA741 Op-Amp relaxation circuit designed for precise frequency timing.
 
 ### 💼 Experience & Background
